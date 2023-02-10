@@ -7,7 +7,7 @@ const path = require('path');
 
 client(
   {
-    host: 'localhost',
+    host: 'https://corey-tunnel.onrender.com',
     port: 8010
     // Uncomment below to enable transport encryption::
     // encKey: 'DwUuKDoFtHVWrWGfS4rz1pm7bOTZ988o',

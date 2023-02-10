@@ -1,6 +1,6 @@
 const { proxyServer } = require('../index.js');
 
-/* internet server proxy configuration */
+console.log("🌈 I'm going to get started corey");
 
 proxyServer({
   proxyPort: 9898,
